@@ -1,0 +1,17 @@
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/1.5. OOP JSON
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/1.5. OOP JSON.deps.json
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/1.5. OOP JSON.runtimeconfig.json
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/1.5. OOP JSON.dll
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/1.5. OOP JSON.pdb
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.AssemblyInfo.cs
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.dll
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/refint/1.5. OOP JSON.dll
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.pdb
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.genruntimeconfig.cache
+/Volumes/Extreme SSD/nubhan/Upskilling course/SHRDC ICT Competence/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/ref/1.5. OOP JSON.dll
+/Volumes/Extreme SSD/nubhan/UPSKILLING COURSE/SHRDC ICT COMPETENCE/4.IR4.0/code/1.5. OOP JSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Volumes/Extreme SSD/nubhan/UPSKILLING COURSE/SHRDC ICT COMPETENCE/4.IR4.0/code/1.5. OOP JSON/obj/Debug/net6.0/1.5. OOP JSON.csproj.CopyComplete
